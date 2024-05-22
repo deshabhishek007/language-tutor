@@ -3,7 +3,7 @@
  * Enqueue Styles
  *
  * @package Language_Tutor
- * @version GIT: 1.0.0
+ * @version GIT: 1.0.1
  *
  * @phpcs:disable
  * (c) 2024 Language Tutor. All rights reserved.

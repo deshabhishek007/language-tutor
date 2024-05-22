@@ -39,16 +39,16 @@ Image for theme screenshot:
 = Bundled Image License =
 
 language-hero:
-- Credit: cottonbro studio
+- Credit: Nilo Velez
 - License: The Creative Commons Zero (CC0) license
-- License URL: https://www.pexels.com/license/
-- Source:https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-writing-on-white-paper-4778413/
+- License URL: https://creativecommons.org/public-domain/cc0/
+- Source:https://wordpress.org/photos/photo/2946578b09/
 
 language-about:
-- Credit: Mary Taylor
+- Credit: Sharankrishna VP
 - License: The Creative Commons Zero (CC0) license
-- License URL: https://www.pexels.com/license/
-- Source:https://www.pexels.com/photo/young-schoolgirls-with-textbooks-in-park-5896470/
+- License URL: https://creativecommons.org/public-domain/cc0/
+- Source:https://wordpress.org/photos/photo/570654db87/
 
 
 = Font License =
