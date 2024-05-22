@@ -12,6 +12,11 @@ Language Tutor is a versatile and responsive WordPress theme, expertly crafted t
 
 == Changelog ==
 
+= 1.0.1 =
+* Updated Images
+* Fixed Skip Links
+* Menu in responsive section fixed
+
 = 1.0.0 =
 * Initial release
 
